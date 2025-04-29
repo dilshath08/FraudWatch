@@ -1,0 +1,45 @@
+# Ignore Mac system files
+.DS_Store
+
+.*
+
+!.gitignore
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore dataset files (CSV)
+*.csv
+
+# Ignore video/movie files
+*.mov
+*.mp4
+*.avi
+
+# Ignore model checkpoints if not needed
+*.h5
+*.pth
+*.pkl
+*.joblib
+
+# Ignore log files
+*.log
+
+
+# Ignore output files (optional)
+outputs/reports/*
+outputs/models/*
+
+# (Optional) Ignore temporary files
+*.temp
+*.tmp
