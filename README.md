@@ -4,7 +4,7 @@ Protecting real-time payments (like FedNow, RTP) by detecting and locking fraudu
 
 ---
 
-![FraudLock Demo](outputs/reports/output.gif)
+![FraudLock Demo](output.gif)
 
 ---
 
@@ -107,7 +107,7 @@ The project also includes Jupyter notebooks for EDA, feature engineering, and mo
 
 👉 Real-time fraud detection, transaction monitoring, fraud probability tracking, and audit log generation.
 
-![FraudLock Running]((outputs/reports/output.gif))
+![FraudLock Running]((output.gif))
 
 ---
 
